@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Rahid and I am a passionate Software Engineering student from Bangladesh</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning DSA, C++, DB<br>🎯 Goals: ...<br>🎲 Fun fact: I think I'm funny, but reality keeps proving me wrong!😄</p>
 
 ###
 
