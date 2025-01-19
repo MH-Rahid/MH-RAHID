@@ -10,29 +10,19 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning DSA, C++, DB.<br>🎯 Goals: Expertise in Programming and Problem-Solving.<br>🎲 Fun fact: I think I'm funny, but reality keeps proving me wrong!😄</p>
+<p align="left">✨ Creating bugs since I started coding!<br>📚 I'm currently learning DSA, C++, DB.<br>🎯 Goals: Expertise in Programming and Problem-Solving.<br>🎲 Fun fact: I think I'm funny, but reality keeps proving me wrong!😄</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+## 🌟 My Toolbox  
+- **Languages:** C, JAVA, SQL, C++, JS, HTML, CS  
+- **Tools:** Git, Linux, MySQL
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/java-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/c-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/html-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/css-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/mysql-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/c++-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-</div>
+## 📫 Get in Touch  
+- **Email:** [mhrahid112@gmail.com](mailto:mhrahid112@gmail.com)   
 
-###
+---
+
+⭐ **Feel free to explore my repositories and collaborate!**  
